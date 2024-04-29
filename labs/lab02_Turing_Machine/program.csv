@@ -1,0 +1,6 @@
+0,q0,B,R,q1
+0,q1,B,R,q0
+1,q0,B,R,q0
+1,q1,B,R,q1
+B,q0,0,L,qf
+B,q1,1,L,qf
